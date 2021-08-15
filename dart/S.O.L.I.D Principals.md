@@ -148,7 +148,7 @@ void main() {
 }
 ```
 
-This will through an error because `lambo` has it's properties set as a `List` however `printCarsColors` only accepts type of `Map`.
+This will throw an error because `lambo` has it's properties set as a `List` however `printCarsColors` only accepts type of `Map`.
 
 ### **Good Practice**:
 We can solve this problem through getter and setter:
