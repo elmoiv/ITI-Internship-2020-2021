@@ -7,7 +7,7 @@ By Applying these principles, you can enhance the quality of your code and make 
 ## SOLID Principles
 
 There are 5 SOLID principles:
-  - The Single-Responsibility Principle
+  - [The Single-Responsibility Principle](#1-the-single-responsibility-principle-srp)
   - The Open-Closed Principle 
   - The Liskov Substitution Principle
   - The Interface Segregation Principle
