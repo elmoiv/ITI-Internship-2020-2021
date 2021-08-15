@@ -9,9 +9,9 @@ By Applying these principles, you can enhance the quality of your code and make 
 There are 5 SOLID principles:
   - [The Single-Responsibility Principle](#1-the-single-responsibility-principle-srp)
   - [The Open-Closed Principle](#2-the-openclosed-principle-ocp)
-  - [The Liskov Substitution Principle](#)
-  - [The Interface Segregation Principle](#)
-  - [The Dependency inversion Principle](#)
+  - [The Liskov Substitution Principle](#3-the-liskov-substitution-principle-lsp)
+  - [The Interface Segregation Principle](#4-the-interface-segregation-principle-isp)
+  - [The Dependency inversion Principle](#5-the-dependency-inversion-principle-dip)
 
 Just like **DRY**: *Don't Repeat yourself* and **KISS**: *Keep It Small and Simple*, These principles descirbe a decades of development best practices which were gathered and organized into a set of 5 acronyms for the sake of simplicity.
 
