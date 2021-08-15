@@ -276,7 +276,7 @@ Here Whale dose not have the un-needed `walk` action method.
 > ### “Abstractions should not depend on details. Details should depend on abstraction. High-level modules should not depend on low-level modules. Both should depend on abstractions”
 
 Going through this concept, we should depend on a dynamically changing interface or a class rather than static or concrete implemented ones.
-Also details should always depend on abstraction and not the vice versa.
+Also details should always depend on abstraction and not the opposite.
 
 ### **Bad Practice**:
 
