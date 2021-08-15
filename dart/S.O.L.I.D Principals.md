@@ -26,7 +26,7 @@ Let's explain these principle in some detail:
 Every class (can also be a function) should have one and only one responsibility. Thus, there will be only a reason to change it.
 
 ### **Bad Practice**:
-A class that takes care of the entire process all at once:
+A function that takes care of the entire process all at once:
 
 ```dart
 void mathOps(var numbers) {
